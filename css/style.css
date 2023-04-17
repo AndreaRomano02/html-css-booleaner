@@ -80,8 +80,31 @@ td:nth-of-type(3) {
   background-color: rgba(59, 226, 255, 0.5);
 }
 
+/* footer */
+.computer {
+  background-image: url('../img/monitor.jpg');
+}
+
+.graphics {
+  background-image: url('../img/graph.jpg');
+}
+
+footer span {
+  color: white;
+  font-weight: bold;
+}
+
 /* utility */
 .container {
   width: 70%;
   margin: 0 auto;
+}
+
+.mini-container {
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-top: 20px;
+  width: 16%;
+  height: 140px;
+  padding: 10px;
 }
