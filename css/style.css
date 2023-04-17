@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* utility */
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
