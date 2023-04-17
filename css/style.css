@@ -40,6 +40,15 @@ h1 {
   font-size: 0.9em;
 }
 
+/* paragraphs */
+p {
+  margin: 20px 0;
+}
+
+mark {
+  background-color: yellow;
+}
+
 /* utility */
 .container {
   width: 70%;
