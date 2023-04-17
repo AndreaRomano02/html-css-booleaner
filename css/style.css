@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  padding: 0;
 }
 
 /* header */
@@ -48,6 +49,7 @@ p {
 mark {
   background-color: yellow;
 }
+
 
 /* table */
 table {
@@ -107,4 +109,8 @@ footer span {
   width: 16%;
   height: 140px;
   padding: 10px;
+}
+
+ul {
+  list-style-position: inside;
 }
