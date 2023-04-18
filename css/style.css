@@ -12,10 +12,9 @@ header {
   margin-bottom: 20px;
 }
 
-header>img {
+header .container img {
   width: 300px;
   margin-top: 30px;
-  margin-left: 280px;
 }
 
 /* section main title */
